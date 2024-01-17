@@ -1,2 +1,17 @@
+body{
+	  margin:0;
+	padding:0;
+	 
+}
+.holder{
+	 
+	display:flex;
+	justify-content:center;
+	align-items: center;
+	border: 1px solid black;
+	height:450px;
+	
+	
 
+}
 /* Your CSS Code here. */
